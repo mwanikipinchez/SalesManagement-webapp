@@ -8,6 +8,9 @@ public class SalesManagementWebappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SalesManagementWebappApplication.class, args);
+		System.out.println("Hello world");
+
+
 	}
 
 }
